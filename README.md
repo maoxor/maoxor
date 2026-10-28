@@ -55,7 +55,7 @@ and the scatter is its deviation from the surrounding 30-day median.</sub>
 </picture>
 
 <!-- telemetry -->
-<samp>sampled 2026-10-27 . 5,869 contributions . 269/365 active . streak 32d . cadence 44.7/d . 1 views / 1 unique inbound</samp>
+<samp>sampled 2026-10-28 . 6,245 contributions . 270/365 active . streak 32d . cadence 95.7/d . 1 views / 1 unique inbound</samp>
 <!-- /telemetry -->
 
 ---
