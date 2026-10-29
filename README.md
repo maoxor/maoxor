@@ -22,7 +22,7 @@ that are online run inside the page.
 
 ### Selected work
 
-| | |
+| Work | What it is |
 | --- | --- |
 | [**Bulles**](https://maoxor.pages.dev/projets/bulles/) | Each work inside the membrane of a soap bubble, computed in real time. |
 | [**La Bibliothèque**](https://maoxor.pages.dev/projets/bibliotheque/) | Borges’ Library of Babel in real time. WebGL2, no dependency. |
