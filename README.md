@@ -8,7 +8,7 @@
 
 **Creative and technical developer** — real-time 3D for the web, AI agents, quantitative research tooling, security.
 
-[**Portfolio**](https://maoxor.pages.dev/) &nbsp;·&nbsp; [Open-source contributions](https://github.com/search?q=author%3Amaoxor+-user%3Amaoxor&type=pullrequests) &nbsp;·&nbsp; [The contributions, mapped](https://maoxor.pages.dev/projets/open-source/)
+[**Portfolio**](https://maoxor.pages.dev/) &nbsp;·&nbsp; [Open-source contributions](https://github.com/search?q=author%3Amaoxor+-user%3Amaoxor&type=pullrequests) &nbsp;·&nbsp; [The contributions, mapped](https://maoxor.pages.dev/projets/open-source/) &nbsp;·&nbsp; [Sponsor](https://github.com/sponsors/maoxor)
 
 </div>
 
@@ -32,6 +32,9 @@ that are online run inside the page.
 | [**Playbook**](https://github.com/maoxor/ai-assisted-visual-production-playbook) | A public method for producing visuals with an AI coding agent. MIT. |
 
 ### Open source
+
+I contribute to open source projects by fixing bugs and improving the tools people rely on every day.
+Sponsorship helps me keep doing this work. **[Sponsor me on GitHub →](https://github.com/sponsors/maoxor)**
 
 - **Upstream:** 49 pull requests to 31 projects (read on 29 October 2026). Merged:
   SwiftFormat [#2820](https://github.com/nicklockwood/SwiftFormat/pull/2820), [#2821](https://github.com/nicklockwood/SwiftFormat/pull/2821),
